@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Front-End developer.<br>- Currently studying JavaScript.</p>
+<p align="left">- Front-End developer.<br>- Currently studying React.</p>
 
 ###
 
@@ -33,6 +33,10 @@
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
 ###
