@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Front-End developer.<br>- I'm currently improving my skills on Next.js and Node.js.</p>
+<p align="left">- Front-End developer.<br>- I'm currently learning PHP.</p>
 
 ###
 
