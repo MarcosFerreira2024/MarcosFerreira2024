@@ -3,8 +3,8 @@
 ###
 
 <p align="left">✨Full-Stack Developer:<br>📚 I'm currently improving my knowledge on GraphQL, Web-Design and Web-Development</p>
-<p align="left">✨Check My Portfolio:<br><a href="https://meu-portfolio-marcosferreira2024s-projects.vercel.app/">Portfolio</a></p>
-<p align="left">✨Currently Working on:<br><a href="https://github.com/MarcosFerreira2024/recorte-backend">Project</a></p>
+<p align="left">✨Check My Portfolio:<br><a target="_blank" href="https://meu-portfolio-marcosferreira2024s-projects.vercel.app/">Portfolio</a></p>
+<p align="left">✨Currently Working on:<br><a target="_blank" href="https://github.com/MarcosFerreira2024/recorte-backend">Project</a></p>
 
 ###
 
