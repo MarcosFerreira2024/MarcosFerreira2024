@@ -4,7 +4,7 @@
 
 <p align="left">✨Full-Stack Developer<br></p>
 <p align="left">✨Check My Portfolio:<br><a target="_blank" href="https://meu-portfolio-marcosferreira2024s-projects.vercel.app/">Portfolio</a></p>
-<p align="left">✨Currently Working on:<br><a target="_blank" href="https://github.com/MarcosFerreira2024/chat-commerce">Chat Commerce (WPP automation)</a></p>
+
 
 ###
 
